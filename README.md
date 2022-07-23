@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amit Soni
-- 👀 Senior Unity3D/2D and Game Developer(Unreal basics).
+- 👀 Senior Unity3D/2D Game Developer(Unreal basics).
 - Experience- 7 years.
 - 📫 Gmail: Amit.soni5157@gmail.com
 
